@@ -1,1 +1,0 @@
-# cantor-convergence-new-claude
